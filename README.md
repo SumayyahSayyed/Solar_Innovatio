@@ -23,7 +23,7 @@ A solar energy Photovoltaic (PV) technologies project.
 
 ### Links
 
-- Live Site URL: [https://website123.up.railway.app/]
+- Live Site URL: [https://sumayyahsayyed.github.io/Solar_Innovatio/]
 
 ## Process
 
