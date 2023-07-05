@@ -4,8 +4,8 @@
 
 - [Overview](#overview)
   - [Project](#project)
-  - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Screenshot](#screenshot)
 - [Process](#process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -16,14 +16,15 @@
 
 A solar energy Photovoltaic (PV) technologies project.
 
+### Links
+
+- Live Site URL: [https://sumayyahsayyed.github.io/Solar_Innovatio/]
+
 ### Screenshot
 
 ![](My-Design/Desktop.png)
 ![](My-Design/Tablet.png)
 
-### Links
-
-- Live Site URL: [https://sumayyahsayyed.github.io/Solar_Innovatio/]
 
 ## Process
 
